@@ -24,9 +24,10 @@ Other subjects that might be common across tracks or technologies:
 
 ### Possible Redundant Labs
 
-| Lab Title | Lab Id | Repo | Where is this lab used? |
+| Lab Title | Lab Id | Repo | Where is this lab used? | 
 | --------- | ------ | ---- | ----------------------- |
-| REST API Basics | 00-prep-02-overview-of-rest-apis |   repo? | Module [LM-4402:REST APIs](https://learninglabs.cisco.com/modules/devnet-express-np-rest-python) in [DNE CC](https://learninglabs.cisco.com/tracks/devnet-express-cloud-collab-it-pro) |
+| REST API Basics | 00-prep-02-overview-of-rest-apis | [devnet-express](CiscoDevNet/devnet-express) | Module [LM-4402:REST APIs](https://learninglabs.cisco.com/modules/devnet-express-np-rest-python) in Track [DNE CC](https://learninglabs.cisco.com/tracks/devnet-express-cloud-collab-it-pro) |
+| Overview of REST APIs (Japanese) | 
 
 ### Possible Redundant Modules
 
