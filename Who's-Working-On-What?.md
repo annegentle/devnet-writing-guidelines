@@ -7,7 +7,7 @@ The curation team is currently focused on improving the Introduction to DevNet T
 ## Current Assignments
 
 |Curator/Author | Module/Lab Name | Permalink | Repo | Where is this used? |
-| ------------- | --------------- | --------------- | ---- |
+| ------------- | --------------- | --------------- | ---- | ------------- |
 | James Neiman  | Network Programmability | [prod](https://learninglabs.cisco.com/modules/network-programmability) | n/a | [track](https://learninglabs.cisco.com/tracks/devnet-beginner) |
 | Austin Hyland | Beginning APIs - Using Spark | [prod](https://learninglabs.cisco.com/modules/beginning-apis)  |  n/a | [track](https://learninglabs.cisco.com/tracks/devnet-beginner) |
 | Diane Willis  | Labs related to REST |  n/a  | n/a  | n/a  |
