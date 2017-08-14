@@ -6,11 +6,11 @@ The curation team is currently focused on improving the Introduction to DevNet T
 
 ## Current Assignments
 
-|Curator/Author | Module/Lab Name | Permalink | Repo | Where is this used? |
-| ------------- | --------------- | --------------- | ---- | ------------- |
-| James Neiman  | Network Programmability | [prod](https://learninglabs.cisco.com/modules/network-programmability) | n/a | [track](https://learninglabs.cisco.com/tracks/devnet-beginner) |
-| Austin Hyland | Beginning APIs - Using Spark | [prod](https://learninglabs.cisco.com/modules/beginning-apis)  |  n/a | [track](https://learninglabs.cisco.com/tracks/devnet-beginner) |
-| Diane Willis  | Labs related to REST |  n/a  | n/a  | n/a  |
+|Curator/Author | Module/Lab Name | Repo | Where is this used? |
+| ------------- | -------------- | ---- | -------------------- |
+| James Neiman  | [Network Programmability](https://learninglabs.cisco.com/modules/network-programmability) | n/a | [Introduction to DevNet](https://learninglabs.cisco.com/tracks/devnet-beginner) |
+| Austin Hyland | [Beginning APIs - Using Spark](https://learninglabs.cisco.com/modules/beginning-apis)  |  n/a | [Introduction to DevNet](https://learninglabs.cisco.com/tracks/devnet-beginner) |
+| Diane Willis  | Labs related to REST | n/a  | n/a  |
 
 Diane is looking at labs that we can consolidate, beginning with labs that cover: 
   - Intro to REST APIs 
@@ -29,7 +29,8 @@ Other subjects that might be common across tracks or technologies:
 | REST API Basics | 00-prep-02-overview-of-rest-apis | [devnet-express](https://github.com/CiscoDevNet/devnet-express) | Module [LM-4402:REST APIs](https://learninglabs.cisco.com/modules/devnet-express-np-rest-python) in Track [DNE CC](https://learninglabs.cisco.com/tracks/devnet-express-cloud-collab-it-pro) |
 | Overview of REST APIs (Japanese) | 00-prep-02-overview-of-rest-apis-jp | [devnet-express-dna-japan](https://github.com/CiscoDevNet/devnet-express-dna-japan) |  |
 
-### Possible Redundant Modules
+### High Priority Modules
 
 | Module Title | Module On Prod | What tracks use this module? |
+| ------------ | -------------- | ---------------------------- |
 | Networking Basics | https://learninglabs.cisco.com/modules/networking-basics | ---- |
