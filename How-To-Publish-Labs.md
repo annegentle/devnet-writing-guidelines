@@ -1,4 +1,4 @@
-# How TO Publish Labs
+# How To Publish Labs
 
 
 
