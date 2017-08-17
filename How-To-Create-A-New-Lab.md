@@ -7,4 +7,4 @@
 #### See Also
 
   - [Basic Lab Template](https://learninglabs.cisco.com:8867/lab/00-basic-02-basic_template/step/1)
-  - [source in Github](https://github.com/CiscoDevNet/devnet-guidelines/tree/master/labs)
+  - Writing Learning Labs [source in Github](https://github.com/CiscoDevNet/devnet-guidelines/tree/master/labs)
