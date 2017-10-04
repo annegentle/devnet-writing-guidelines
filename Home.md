@@ -1,4 +1,4 @@
-_Intro by Chris Lunsford (@cmlccie)_
+_Intro by Chris Lunsford ([@cmlccie](https://github.com/cmlccie))_
 
 ---
 
