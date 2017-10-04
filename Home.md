@@ -1,6 +1,7 @@
 _Intro by Chris Lunsford ([@cmlccie](https://github.com/cmlccie))_
 
 ---
+> _"All right... all right... but apart from better sanitation, the medicine, education, wine, public order, irrigation, roads, a fresh water system, and public health... what have the Romans ever done for us?" -THE LIFE OF BRIAN_
 
 What good comes from coding standards? ...just about all of the above.
 
