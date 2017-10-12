@@ -1,8 +1,8 @@
 The **DevNet Programming Task Force (DPTF)** is responsible for defining a core set of labs that represent DevNet's primer material and content regarded as programming fundamentals.
 
-**TOC<br>**
+**TOC (on this page)<br>**
   >  [Useful links](#useful-links)<br>
-  [List of learning Objectives](#list-of-learning-objectives)<br>
+  [List of learning objectives](#list-of-learning-objectives)<br>
   [List of labs that cover programming fundamentals](#list-of-labs-that-cover-programming-fundamentals)<br>
 
 ***
