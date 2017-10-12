@@ -29,7 +29,7 @@ What are the learning objectives (skills and knowledge) that DevNet considers pa
 | Control structures  |  - for<br>  -while   |   |
 | Data Structures  |   - arrays/lists<br>  - hashes/dicts |   {device, hostname, port}  |
 | Input/Output  |   |   |
-| Parse  |  - JSON<br>  - XML  |   |
+| Parse  |  - JSON<br>  - XML <br>  -  YAML |   |
 
 
 
