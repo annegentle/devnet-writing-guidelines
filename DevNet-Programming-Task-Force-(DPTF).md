@@ -23,7 +23,8 @@ What are the learning objectives (skills and knowledge) that DevNet considers pa
 | Github             | Understand how to access a repo, clone, pull, etc. |   |
 | Data types         | Understand purpose of int, boolean, etc. |   |
 | REST API calls     | Concepts on how APIs work<br>basic GET/POST/PUT/DELETE <br> authorization|   |
-|   Variables|   |   |
+| Importing libraries | `Requests`  |   |
+| Variables|   |   |
 |  Data Types |   |   |
 | Operators  |   |   |
 | Control structures  |  - for<br>  -while   |   |
