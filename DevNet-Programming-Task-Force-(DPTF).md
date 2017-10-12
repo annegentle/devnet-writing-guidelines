@@ -18,10 +18,10 @@ The **DevNet Programming Task Force (DPTF)** is responsible for defining a core 
 
 What are the learning objectives (skills and knowledge) that DevNet considers part of core programming fundamentals?
 
-| Learning Objective (language-independent) | Non-technology specific Description  | Tech Example (Reference Implementation) |
+| Learning Objective (language-independent) | Non-technology specific Description  | Examples Include (Reference Implementation) |
 | ------------------ | --------------------- | ---- |
-| Github             | Understand how to access a repo, clone, pull, etc. |   |
-| Data types         | Understand purpose of int, boolean, etc. |   |
+| Github             | Understand basics about repos | clone<br>pull<br>push |
+| Data types         | Understand data types |  int<br>boolean  |
 | REST API calls     | Concepts on how APIs work|   |
 |      | Resources and Endpoints |   |
 |      | HTTP Operations  | GET/POST/PUT/DELETE  ???Spark API??? |
