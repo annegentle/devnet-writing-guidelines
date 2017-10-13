@@ -4,6 +4,7 @@ The **DevNet Programming Task Force (DPTF)** is responsible for defining a core 
   >  [Useful links](#useful-links)<br>
   [List of learning objectives](#list-of-learning-objectives)<br>
   [List of labs that cover programming fundamentals](#list-of-labs-that-cover-programming-fundamentals)<br>
+  [Guiding Principles](#guiding-principles)
 
 ***
 
@@ -42,4 +43,11 @@ What are the learning objectives (skills and knowledge) that DevNet considers pa
 
 ## List of labs that cover programming fundamentals
 
+The lit of labs/slides/code that currently exist will go here...
 
+
+
+## Guiding Principles
+
+John M. wrote:
+> "...examples/exercises should use data that is Network, Compute, Storage, Wireless, Security, IoT, etc. in nature."
