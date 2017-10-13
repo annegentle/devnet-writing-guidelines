@@ -27,6 +27,9 @@ What are the learning objectives (skills and knowledge) that DevNet considers pa
 |      | Resources and Endpoints |   |
 |      | HTTP Operations  | GET/POST/PUT/DELETE  ???Spark API??? |
 |      | Authorization |   |
+| Language-specific | Python fundamentals |   |
+|      | Powershell fundamentals |   |
+|      | Jaascript fundamentals |   |
 | Importing libraries | `Requests`  |   |
 | Variables|   |   |
 |  Data Types |   |   |
