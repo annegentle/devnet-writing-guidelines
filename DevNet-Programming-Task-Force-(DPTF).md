@@ -29,7 +29,7 @@ What are the learning objectives (skills and knowledge) that DevNet considers pa
 |      | Authorization |   |
 | Language-specific | Python fundamentals |   |
 |      | Powershell fundamentals |   |
-|      | Jaascript fundamentals |   |
+|      | Javascript fundamentals |   |
 | Importing libraries | `Requests`  |   |
 | Variables|   |   |
 |  Data Types |   |   |
