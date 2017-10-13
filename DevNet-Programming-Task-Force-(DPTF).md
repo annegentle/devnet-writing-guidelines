@@ -22,17 +22,16 @@ What are the learning objectives (skills and knowledge) that DevNet considers pa
 | Learning Objective (language-independent) | Non-technology specific Description  | Examples Include (Reference Implementation) |
 | ------------------ | --------------------- | ---- |
 | Github             | Understand basics about repos | clone<br>pull<br>push |
-| Data types         | Understand data types |  int<br>boolean  |
 | REST API calls     | Concepts on how APIs work|   |
-|      | Resources and Endpoints |   |
-|      | HTTP Operations  | GET/POST/PUT/DELETE  ???Spark API??? |
-|      | Authorization |   |
-| Language-specific | Python fundamentals |   |
-|      | Powershell fundamentals |   |
-|      | Javascript fundamentals |   |
+|                    | Resources and Endpoints |   |
+|                    | HTTP Operations  | GET/POST/PUT/DELETE  ???Spark API??? |
+|                    | Authorization |   |
+| Language-specific | Python | ---| fundamentals |   |
+|                   | Powershell fundamentals |   |
+|                   | Javascript fundamentals |   |
 | Importing libraries | `Requests`  |   |
 | Variables|   |   |
-|  Data Types |   |   |
+| Data types | Understand data types |  int<br>boolean  |
 | Operators  |   |   |
 | Control structures  |  - for<br>  -while   |   |
 | Data Structures  |   - arrays/lists<br>  - hashes/dicts |   {device, hostname, port}  |
