@@ -1,6 +1,6 @@
 * [Home](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki)
 * Writing Guidelines
-  * How To Create Lab
+  * [How To Create Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Create-A-New-Lab)
   * [How To Create A Module](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/LL-Modules)
   * [How To Edit An Existing Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/how-to-edit-existing-lab)
   * How To Publish Labs
