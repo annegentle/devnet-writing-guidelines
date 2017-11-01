@@ -1,12 +1,21 @@
-The **DevNet Programming Task Force (DPTF)** is responsible for defining a core set of labs that represent DevNet's primer material and content regarded as programming fundamentals.
+The **DevNet Programming Task Force (DPTF)** is responsible for defining a core set of labs that represent DevNet's primer material and content covering programming fundamentals.
 
 **TOC (on this page)<br>**
   >  [Useful links](#useful-links)<br>
+  [Members](#members)<br>
   [List of learning objectives](#list-of-learning-objectives)<br>
   [List of labs that cover programming fundamentals](#list-of-labs-that-cover-programming-fundamentals)<br>
   [Guiding Principles](#guiding-principles)
 
 ***
+
+## Members
+
+  - Hank Preston
+  - Marcos Campos
+  - John McDonough
+  - Matt Denapoli
+  - Stève Sfartz
 
 ## Useful links
 
@@ -39,13 +48,11 @@ What are the learning objectives (skills and knowledge) that DevNet considers pa
 | Data Formats  |* JSON<br>* XML<br>* YAML   |   |
 | Parsing  |* JSON |   |
 
-
-
-
-
 ## List of labs that cover programming fundamentals
 
-The lit of labs/slides/code that currently exist will go here...
+This is the list of labs currently available that cover any of the aspects listed above:
+
+
 
 
 
