@@ -1,15 +1,14 @@
 * [Home](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki)
 * Writing Guidelines
   * [How To Create Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Create-A-New-Lab)
+  * [How To Edit An Existing Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Edit-An-Existing-Lab)
   * [How To Create A Module](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/LL-Modules)
   * [How To Edit An Existing Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/how-to-edit-existing-lab)
-  * How To Publish Labs
-  * Lab Headings
-  * Writer's Style Guide
+  * [How To Publish A Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Publish-A-Lab)
+  * [Lab Style Guide](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Lab-Style-Guide)
 * [Coding Guidelines](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/General-Guidelines)
-  * [Tools](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Tools)
-  * Licensing
-
+  * [Coding Tools](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Coding-Tools)
+  * [Licensing Boilerplate](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Licensing-Boilerplate)
   * [Code Directory Structure](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Code-Directory-Structure)
   * [Code Comments](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Code-Comments)
   * [Code Conventions - Basic](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Code-Conventions-Basic)
