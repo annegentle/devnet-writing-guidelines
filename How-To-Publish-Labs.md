@@ -13,8 +13,12 @@ To publish a lab:
      1. Click on the name of the repo
      1.  ... <i>fill in this blank</i>
 
+
+
+## Production versus Staging server
+
+
 ## Logging into the server
 
-### Production versus Staging server
 
 
