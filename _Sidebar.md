@@ -1,4 +1,5 @@
 * [Home](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki)
+* [Guideline Manifesto](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/devnet-writing-guideline-manifesto)
 * Writing Guidelines
   * [How To Create Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Create-A-New-Lab)
   * [How To Edit An Existing Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Edit-An-Existing-Lab)
