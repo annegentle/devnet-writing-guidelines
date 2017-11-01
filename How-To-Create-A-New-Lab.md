@@ -8,5 +8,5 @@ To learn about creating a new lab:
   1. Add your lab files to an existing repo or create your own repo in the [CiscoDevNet](https://github.com/CiscoDevNet) organization.
   1. Let one of the Learning Lab admins know when you are ready to publish.
 
-You should publish your lab to the DevNet <a href="https://learninglabs.cisco.com:8867 target="_main">Learning Lab staging server</a> (which has the port number 8867) first to review the content. When your lab is ready for release, an admin will need to publish it for you to the production server.
+You should publish your lab to the DevNet <a href="https://learninglabs.cisco.com:8867" target="_main">Learning Lab staging server</a> (which has the port number 8867) first to review the content. When your lab is ready for release, an admin will need to publish it for you to the production server.
  
