@@ -1,8 +1,8 @@
 # How To Create A New Lab
 
-To learn about creating a new lab:
+To create a new lab:
 
-  1. Go to the lab: [Writing Learning Labs](https://learninglabs.cisco.com:8867/lab/00-labs-01-getting_started/step/1)
+  1. Read through the lab: [Writing Learning Labs](https://learninglabs.cisco.com:8867/lab/00-labs-01-getting_started/step/1)
   1. For reference, look at how the [Basic Lab Template](https://learninglabs.cisco.com:8867/lab/00-basic-02-basic_template/step/1) appears in the learning lab environment. This is an example of how the template looks when rendered on the DevNet Learning Lab staging server.
   1. Copy the files of the Basic Lab Template [source in Github](https://github.com/CiscoDevNet/devnet-guidelines/tree/master/labs) to your local workspace.
   1. Add your lab files to an existing repo or create your own repo in the [CiscoDevNet](https://github.com/CiscoDevNet) organization.
