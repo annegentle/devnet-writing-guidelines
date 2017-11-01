@@ -1,4 +1,4 @@
-****To create a new lab:
+**To create a new lab:**
 
   1. Read through the lab: [Writing Learning Labs](https://learninglabs.cisco.com:8867/lab/00-labs-01-getting_started/step/1)
   1. For reference, look at the [Basic Lab Template](https://learninglabs.cisco.com:8867/lab/00-basic-02-basic_template/step/1). That gives you an idea of how the template looks when rendered on the DevNet Learning Lab staging server.
