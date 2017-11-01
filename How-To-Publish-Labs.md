@@ -6,11 +6,11 @@ To publish a lab:
   1. Create a release.
   1. Log in to the appropriate server (production or staging)
   1. From the admin menu (gear icon in upper right corner), select **Manage Gits**.
-  1. If the lab has never been published:
+  1. If the lab has never been published on this server:
      1. Click `Create Git`
      1. ... <i>fill in this blank</i>
-  1. If the lab had previously been published:
-     1. Click on the repo
+  1. If the lab has previously been published:
+     1. Click on the name of the repo
      1.  ... <i>fill in this blank</i>
 
 ## Logging into the server
