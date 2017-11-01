@@ -1,5 +1,3 @@
-# How To Create A New Lab
-
 To create a new lab:
 
   1. Read through the lab: [Writing Learning Labs](https://learninglabs.cisco.com:8867/lab/00-labs-01-getting_started/step/1)
