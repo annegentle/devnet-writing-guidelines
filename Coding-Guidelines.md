@@ -1,3 +1,5 @@
+These are the guidelines as agreed to by [DevNet Programming Task Force](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/DevNet-Programming-Task-Force-(DPTF)).
+
 * [Coding Guidelines](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/General-Guidelines)
   * [Coding Tools](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Coding-Tools)
   * [Licensing Boilerplate](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Licensing-Boilerplate)
