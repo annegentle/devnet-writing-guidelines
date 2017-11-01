@@ -1,8 +1,7 @@
 # How To Create A New Lab
 
-#### See
 
-  - [Writing Learning Labs](https://learninglabs.cisco.com:8867/lab/00-labs-01-getting_started/step/1) - Instructions on how to create a new lab, presented in a lab format on the DevNet Learning Lab staging server.
+Tutorial: [Writing Learning Labs](https://learninglabs.cisco.com:8867/lab/00-labs-01-getting_started/step/1) - Instructions on how to create a new lab, presented in a lab format on the DevNet Learning Lab staging server.
 
 #### See Also
 
