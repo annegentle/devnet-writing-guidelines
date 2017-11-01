@@ -1,4 +1,4 @@
-Table Of Contents
+# Table Of Contents
 
 * [Home](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki)
 * [Guideline Manifesto](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/devnet-writing-guideline-manifesto)
