@@ -10,12 +10,13 @@ The **DevNet Programming Task Force (DPTF)** is responsible for defining a core 
 ***
 
 ## Members
-
-  - Hank Preston
   - Marcos Campos
-  - John McDonough
   - Matt Denapoli
+  - John McDonough
+  - Hank Preston
   - Stève Sfartz
+  - David Staudt
+  - Paul Zimmerman
 
 ## Useful links
 
