@@ -13,6 +13,24 @@ Block comments generally apply to some (or all) code that follows them, and are 
 
 Paragraphs inside a block comment are separated by a line containing a single # .
 
+### Block Comment Example
+
+```Python
+...
+# Define the again() function to ask user if they want to use the calculator again
+
+def again()
+
+    # Take input from user
+    calc_again = input('''Do you want to calculate again? Y for YES or N for NO.
+    ''')
+
+    # If user types Y, run the calculate() function
+    if calc_again == 'Y':
+        calculate()
+...
+```
+
 # Inline Comments
 
 Use inline comments sparingly.
