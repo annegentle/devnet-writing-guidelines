@@ -16,7 +16,14 @@ Paragraphs inside a block comment are separated by a line containing a single # 
 ### Block Comment Example
 
 ```Python
+# The main function will parse arguments via the parser variable.  These
+# arguments will be defined by the user on the console.  This will pass
+# the blah blah blah blah
+
+def main():
+  parser = argparse.ArgumentParser()
 ...
+
 # Define the again() function to ask user if they want to use the calculator again
 
 def again()
