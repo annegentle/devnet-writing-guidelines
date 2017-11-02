@@ -3,7 +3,7 @@
 We recommend that you use the MIT license boilerplate language. Copy and paste the following text into each file, or main file of your source code samples:
 
 ```
-Copyright (c) [year] [fullname], Cisco Systems, Inc. All rights reserved.
+Copyright (c) [year], Cisco Systems, Inc. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
