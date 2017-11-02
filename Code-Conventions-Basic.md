@@ -53,12 +53,12 @@
 
 ## Functions
 
-•	Names must be verbs or verb phrases
-•	Names must be written using mixedCase capitalization
-•	Function names / calls should not have a space between the name and opening parenthesis
-•	The argument list should not be surrounded by spaces
-•	Argument names must be mixedCase capitalization
-•	Argument names should have the same name as their type
+  - Names must be verbs or verb phrases
+  - Names must be written using mixedCase capitalization
+  - Function names / calls should not have a space between the name and opening parenthesis
+  - The argument list should not be surrounded by spaces
+  - Argument names must be mixedCase capitalization
+  - Argument names should have the same name as their type
 
 ## Prefixes
   - get / set should be used for private variable accessors
