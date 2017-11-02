@@ -16,6 +16,7 @@
   * [Code Comments](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Code-Comments)
   * [Code Conventions - Basic](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Code-Conventions-Basic)
   * [Code Conventions - Advanced](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Code-Conventions-Advanced)
+  * [Import Statements](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/import-statements)
   * Error Checking & Exception Handling
 * Language Specific Guidelines
   * [Python](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Python)
