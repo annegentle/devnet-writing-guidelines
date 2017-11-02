@@ -5,7 +5,7 @@
 * Writing Guidelines
   * [How To Create A Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Create-A-New-Lab)
   * [How To Edit An Existing Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Edit-An-Existing-Lab)
-  * [How To Create A Module](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/LL-Modules)
+  * [How To Create A Module](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Create-A-Module)
   * [How To Edit An Existing Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/how-to-edit-existing-lab)
   * [How To Publish A Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Publish-Labs)
   * [Lab Style Guide](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Lab-Style-Guide)
