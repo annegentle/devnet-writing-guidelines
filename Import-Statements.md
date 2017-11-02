@@ -27,5 +27,5 @@ Example of how NOT to import packages
 ```Python
 import sys, os           # DO NOT import different modules on the same line
 from sqlalchemy import * # DO NOT import *
-from .models import util # DO NOT use relative imports (better to use fully qualified names)
+from .models import util # DO NOT use relative imports (use fully qualified names)
 ```
