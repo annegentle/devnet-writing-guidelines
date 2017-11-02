@@ -1,6 +1,8 @@
 ## What boilerplate language should you use in sample code?
 
-We recommend that you use the [MIT license](https://choosealicense.com/licenses/mit/) boilerplate language. Copy and paste the following text into each file, or main file of your source code samples:
+We recommend that you use the [MIT license](https://choosealicense.com/licenses/mit/) boilerplate language. 
+
+Copy and paste the following text into each file, or main file of your source code samples:
 
 ```
 Copyright (c) [year], Cisco Systems, Inc. All rights reserved.
