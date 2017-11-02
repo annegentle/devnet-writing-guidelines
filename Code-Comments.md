@@ -4,7 +4,7 @@ Comments should be complete sentences. If a comment is a phrase or sentence, its
 
 Block comments generally consist of one or more paragraphs built out of complete sentences, and each sentence should end in a period.
 
-When writing English, follow Strunk and White.
+When writing English, follow [The Elements Of Style](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf) by Strunk and White.
 
 
 # Block Comments
