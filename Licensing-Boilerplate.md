@@ -1,4 +1,4 @@
-## What should you put in samples code?
+## What boilerplate language should you use in sample code?
 
 We recommend that you use the MIT license boilerplate language. Copy and paste the following text into each file, or main file of your source code samples:
 
