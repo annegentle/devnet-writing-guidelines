@@ -9,7 +9,7 @@
   * [How To Edit An Existing Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/how-to-edit-existing-lab)
   * [How To Publish A Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Publish-Labs)
   * [Lab Style Guide](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Lab-Style-Guide)
-* [Coding Guidelines](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/General-Guidelines)
+* [Coding Guidelines](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Coding-Guidelines)
   * [Tools For Coding](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Tools-For-Coding)
   * [Licensing Boilerplate](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Licensing-Boilerplate)
   * [Code Directory Structure](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Code-Directory-Structure)
