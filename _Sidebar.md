@@ -1,4 +1,5 @@
 * [Home](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki)
+* [DevNet Programming Task Force](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/DevNet-Programming-Task-Force-(DPTF))
 * [Guideline Manifesto](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/devnet-writing-guideline-manifesto)
 * Writing Guidelines
   * [How To Create A Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Create-A-New-Lab)
@@ -18,23 +19,5 @@
   * Error Checking & Exception Handling
 * Language Specific Guidelines
   * [Python](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Python)
-* [DevNet Programming Task Force](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/DevNet-Programming-Task-Force-(DPTF))
 
-<!-- * [Home](https://github.com/CiscoDevNet/devnet-guidelines-public/wiki)
-* Getting Started
-  * [How To Create A Lab]
-  * [How To Create A Module](https://github.com/CiscoDevNet/devnet-guidelines-public/wiki/LL-Modules)
-  * [How To Publish]
-* [Writing Guidelines]
-* [Coding Guidelines](https://github.com/CiscoDevNet/devnet-guidelines-public/wiki/General-Guidelines)
-  * [Tools](https://github.com/CiscoDevNet/devnet-guidelines-public/wiki/Tools)
-  * Licensing
-  * Quick Start to Coding Guidelines
-    * [Code Directory Structure](https://github.com/CiscoDevNet/devnet-guidelines-public/wiki/Code-Directory-Structure)
-    * [Code Comments](https://github.com/CiscoDevNet/devnet-guidelines-public/wiki/Code-Comments)
-    * [Code Conventions - Basic](https://github.com/CiscoDevNet/devnet-guidelines-public/wiki/Code-Conventions-Basic)
-    * [Code Conventions - Advanced](https://github.com/CiscoDevNet/devnet-guidelines-public/wiki/Code-Conventions-Advanced)
-  * Error Checking & Exception Handling
-* Language Specific Guidelines
-  * [Python](https://github.com/CiscoDevNet/devnet-guidelines-public/wiki/Python)
--->
+
