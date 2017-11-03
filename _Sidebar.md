@@ -18,7 +18,7 @@
   * Error Checking & Exception Handling
 * Language Specific Guidelines
   * [Python](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Python)
-
+* [DevNet Programming Task Force](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/DevNet-Programming-Task-Force-(DPTF))
 
 <!-- * [Home](https://github.com/CiscoDevNet/devnet-guidelines-public/wiki)
 * Getting Started
