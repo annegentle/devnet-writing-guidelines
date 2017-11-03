@@ -1,6 +1,7 @@
 # Table Of Contents
 
 * [Home](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki)
+* [DevNet Programming Task Force](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/DevNet-Programming-Task-Force-(DPTF))
 * [Guideline Manifesto](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/devnet-writing-guideline-manifesto)
 * Writing Guidelines
   * [How To Create A Lab](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/How-To-Create-A-New-Lab)
