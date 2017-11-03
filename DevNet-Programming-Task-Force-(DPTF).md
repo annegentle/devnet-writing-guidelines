@@ -51,13 +51,18 @@ What are the learning objectives (skills and knowledge) that DevNet considers pa
 
 ## List of labs that cover programming fundamentals
 
-This is the list of labs currently available that cover any of the aspects listed above:
+This is the list of labs currently available that cover the learning objectives listed above:
 
+| Lab Id   |  Lab Name  |  Repo  |  Contained In Modules  |
+| -------- | ---------- | ------ | ---------------------- |
+| This table needs to be filled in. | |  |  |
 
 
 
 
 ## Guiding Principles
+
+The following are guiding principles that the DMTF recommends all authors and instructors of programming follow.
 
 John M. wrote:
 > "...examples/exercises should use data that is Network, Compute, Storage, Wireless, Security, IoT, etc. in nature."
