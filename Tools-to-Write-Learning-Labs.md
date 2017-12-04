@@ -43,5 +43,5 @@ Nowadays, internet can be leveraged to achieve almost any tasks. Below are tools
 * [JSON Editor](http://www.jsoneditoronline.org/)
 
 
-### Learning Lab Previewer
+### Learning Lab Previewer (in progress)
 After content has been written, it is always good to double check the work by seeing how it would look like on production website. [Learning Lab Previewer](https://github.com/CiscoDevNet/llp) was created to assist in that task. Follow the steps outlined below the files to install the Learning Lab Previewer (LLP) on the local machine. To better visualize the installation process author created a video showing the installation and setup process. The video is accessible [here](https://cisco.jiveon.com/videos/38761).
